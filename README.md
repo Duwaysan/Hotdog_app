@@ -1,1 +1,1 @@
-# Hotdog_app
+# Image Classification Deployment - Streamlit
